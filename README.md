@@ -42,7 +42,7 @@ The purpose of this analysis is to provide a more in-depth analysis of UFO sight
 ## Summary
 >
 >### One (1) drawback of this webpage:
->- This is no Alert the message to the user to inform them if there is no data matching the query, this will alleviate any confusion the user may have of the web app stalling.
+>- There is no alert message to the user to inform them if there is no data matching the query, this will alleviate any confusion the user may have of the web app stalling.
 >
 >### Two (2) additional recommendations for further development:
 >- The Ability to filter by duration
