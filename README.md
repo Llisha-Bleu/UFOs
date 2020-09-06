@@ -7,13 +7,13 @@ Dana, a data journalist, has been given an opportunity to write about her hometo
 2. List of UFO sightings by date, city, state, country, shape and duration
 3. Ability to filter the UFO sightings by date, city, state, country, and shape
 
-Using JavaScript and HTML, will be used to modify the code in the index.html file to create more table filters. In addition to the date filter created, additional filters for the city, state, country, and shape will also be created. Using JavaScript, the handleClick() function in your app.js file will be replaced with a new function that saves the element, value, and id of the filter that was changed. Afterwhich, a new function will be created to loop through the dataset and keep only the results that match the search criteria. The webpage will be updated with the search criteria after pressing "Enter".
+Using JavaScript and HTML, will be used to modify the code in the `index.html` file to create more table filters. In addition to the date filter created, additional filters for the city, state, country, and shape will also be created. Using JavaScript, the `handleClick()` function in your `app.js` file will be replaced with a new function that saves the element, value, and id of the filter that was changed. Afterwhich, a new function will be created to loop through the dataset and keep only the results that match the search criteria. The webpage will be updated with the search criteria after pressing `"Enter"`.
 
 ## Purpose
 The purpose of this analysis is to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria (date, city, state, country, shape) at the same time.
 
 ## Resources
-- **Data Source:** app.js, index.html, stle.css, ufo_starterCode.js, data.js
+- **Data Source:** `app.js`, `index.html`, `style.css`, `ufo_starterCode.js`, `data.js`
 - **Software:** Javascript, Bootstrap, CSS, HTML
 >
 ## Results
